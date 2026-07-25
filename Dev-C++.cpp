@@ -10,5 +10,6 @@ int main()
 	int change=100-price;
 	
 	printf("Change:%dYuan.\n",change);
-
+	
+	return 0;
 }
